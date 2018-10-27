@@ -10,4 +10,4 @@ The Project aims to predict student marks using Bayesian Linear Regression. Mark
 
 The project is built in `Python3`.
 
-Bayesian regression is implemented using `pymc3` module. An intuitive user interface is also provided using `tkinter` module.`
+Bayesian regression is implemented using `pymc3` module. An intuitive user interface is also provided using `tkinter` module.
